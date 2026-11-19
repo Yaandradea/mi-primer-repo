@@ -1,4 +1,4 @@
-# mi-primer-repo
+# Mi-primer-repo
 Mi primer repositorio, hecho en el SENA
 # Yeni Andrade
 # Lo que estoy aprendiendo
