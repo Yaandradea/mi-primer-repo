@@ -4,3 +4,8 @@
 * Tema 2 Lista
 * Tema 3 Funciones
 **Analisis y desarrollo de software**
+## Herramientas que uso
+- Python
+- VS Code
+- Git
+- GitHub
